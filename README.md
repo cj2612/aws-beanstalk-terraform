@@ -6,7 +6,7 @@ Terraform configuration files for AWS Beanstalk with GitHub actions.
 
 ## Description
 
-This repo contains a demo AWS Beanstalk deployment using Terraform and GitHub actions. The goal is to showcase AWS and Terraform knowledge. 
+This repo contains reusable AWS Beanstalk deployment configuration using Terraform and GitHub actions.
 
 
 ## Running the scripts
